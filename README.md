@@ -30,6 +30,14 @@ I enjoy working with data, discovering meaningful insights, and presenting infor
 - Explored sales trends and customer purchasing patterns.
 - [View Project](https://github.com/NishaKK-21/Walmart-Customer-Sales-Analysis)
 
+### Retail Sales Analysis Using SQL
+
+- **Tool:** MySQL
+- Analyzed 1,000 retail sales transaction records.
+- Used SQL queries to analyze revenue, monthly sales trends, product categories, and customer purchasing patterns.
+- Applied SQL concepts including GROUP BY, JOINs, subqueries, aggregate functions, and date functions.
+- [View Project](https://github.com/NishaKK-21/Retail-Sales-Analysis-SQL)
+
 ### 3. Catch the Ball – Hand Gesture Edition
 - Tools: Python, OpenCV, MediaPipe, Pygame
 - Developed an interactive game using hand gesture recognition.
